@@ -2,8 +2,8 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.owner = [['6282337245566', 'Syahrul A.S', true]] // Put your number here
-global.mods = ['6282337245566'] // Developer / Mods Number
+global.owner = [['6285607806470', 'Rama', true]] // Put your number here
+global.mods = ['6285607806470'] // Developer / Mods Number
 global.APIs = { // API Prefix
 	// name: 'https://website'
 	nrtm: 'https://nurutomo.herokuapp.com',
@@ -15,7 +15,7 @@ global.APIs = { // API Prefix
 	LeysCoder: 'https://leyscoders-api.herokuapp.com',
 	lol: 'https://api.lolhuman.xyz'
 }
-global.APIKeys = { // APIKey Here
+global.APIKeys = { // 5VC9rvNx
 	// 'https://website': 'apikey'
 	'https://api.xteam.xyz': 'd90a9e986e18778b',
 	'https://zahirr-web.herokuapp.com': 'zahirgans',
